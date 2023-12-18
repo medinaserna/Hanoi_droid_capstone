@@ -25,10 +25,22 @@ Non-matching cases:
 
 
 
+## Acknowledgments
+
+We would like to extend our special thanks to Camosun College, and all of our instructors throughout the program, who helped us pave the way to acquiring the knowledge that assisted us in completing the project. Also, our gratitude goes to the instructors who guided us this term—Mel Dundas, Wayne Mayes, and Justin Curran, as well as the prep room technicians who were always available to assist us. Last but not least, we express our appreciation to the mechanical department personnel, Pat and Anika, who helped us on various occasions.
+
+
+## Website
+
+[https://elexprep.wixsite.com/hanoi-droid](https://elexprep.wixsite.com/hanoi-droid) 
+
+
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
+
+
 
 
