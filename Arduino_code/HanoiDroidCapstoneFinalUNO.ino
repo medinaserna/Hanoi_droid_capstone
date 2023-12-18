@@ -2,7 +2,7 @@
 The following code is part of the capstone HANOI DROID -  Camosun College. Term: Fall 2023
 Purpose: control a set of servomotors that are part of the Inmoov Robot (https://inmoov.fr/), moving the arm to reach discs and solve the Hanoi Towers Game.
 It is heavily supported with a Python program that using OpenCV detects the discs position 
-Hardware: Ardunio Nano UNO
+Hardware: Arduino UNO
 
 Hanoi complete set of movements:
 1 to 3,  1 to 2, 3 to 2, 1 to 3, 2 to 1, 2 to 3, 1 to 3.
